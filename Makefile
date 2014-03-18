@@ -13,3 +13,4 @@ install:
 uninstall:
 		rm -f $(PREFIX)/bin/$(BIN_FILE)
 		npm uninstall cool-ascii-faces -g
+

@@ -1,9 +1,7 @@
 git-face-commit
 ==============
 
-This is based on [git-fun-commit](https://github.com/erthalion/git-fun-commit)
-
-[cool-ascii-faces](https://nodei.co/npm/cool-ascii-faces/)
+This is based on [git-fun-commit](https://github.com/erthalion/git-fun-commit), [cool-ascii-faces](https://nodei.co/npm/cool-ascii-faces/)
 
 For example this command:
 ```bash

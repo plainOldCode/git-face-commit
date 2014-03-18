@@ -1,9 +1,9 @@
 git-face-commit
 ==============
 
-This is based on [!git-fun-commit](https://github.com/erthalion/git-fun-commit)
+This is based on [git-fun-commit](https://github.com/erthalion/git-fun-commit)
 
-[!cool-ascii-faces](https://nodei.co/npm/cool-ascii-faces/)
+[cool-ascii-faces](https://nodei.co/npm/cool-ascii-faces/)
 
 For example this command:
 ```bash
@@ -27,7 +27,7 @@ Uninstallation:
 sudo make uninstall
 ```
 It will copy the binary git-face-commit into <b>/usr/local/bin</b>.
-And install [!cool-ascii-faces](https://nodei.co/npm/cool-ascii-faces/)
+And install [cool-ascii-faces](https://nodei.co/npm/cool-ascii-faces/)
 
 Usage
 =====

@@ -32,3 +32,4 @@ Usage
 ```bash
 git face-commit "{actual commit message}"
 ```
+
